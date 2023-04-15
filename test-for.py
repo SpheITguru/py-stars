@@ -7,3 +7,4 @@ print("Done!")
 for x in range(5):
   for j in range(x):
     print("*",end='')
+  print()
